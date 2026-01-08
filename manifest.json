@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Clean minecraft texture pack!",
+   "name": "CleanCut-Pack",
+   "uuid": "1080b6b7-be2a-4a6c-b11a-45b3ab12e297",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 21, 0]
+  },
+ "modules": [
+   {
+     "description": "Clean minecraft texture pack!",
+     "type": "resources",
+     "uuid": "2d6efec5-310e-4a9d-a3ac-a18c5773cc09",
+     "version": [1, 0, 0]
+   }
+ ]
+}
