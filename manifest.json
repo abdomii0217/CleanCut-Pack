@@ -5,7 +5,7 @@
    "name": "CleanCut-Pack",
    "uuid": "1080b6b7-be2a-4a6c-b11a-45b3ab12e297",
    "version": [1, 0, 0],
-   "min_engine_version": [1, 21, 0]
+   "min_engine_version": [1, 21, 130]
   },
  "modules": [
    {
